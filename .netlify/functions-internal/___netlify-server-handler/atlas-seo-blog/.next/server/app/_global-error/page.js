@@ -1,0 +1,10 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__10rwaf9._.js")
+R.c("server/chunks/ssr/0mgb_next_dist_00tloj5._.js")
+R.c("server/chunks/ssr/0mgb_next_dist_esm_build_templates_app-page_0fp5vgg.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0428ndq._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__04itqb_._.js")
+R.c("server/chunks/ssr/0mgb_next_dist_client_components_builtin_global-error_0swb9j8.js")
+R.c("server/chunks/ssr/atlas-seo-blog__next-internal_server_app__global-error_page_actions_12rmxkv.js")
+R.m(30506)
+module.exports=R.m(30506).exports
