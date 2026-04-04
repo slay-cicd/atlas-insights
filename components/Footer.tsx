@@ -117,7 +117,7 @@ export default function Footer() {
         }}
       >
         <p style={{ color: '#4a5568', fontSize: '0.85rem' }}>
-          © 2025 Atlas Market. Alle Rechte vorbehalten.
+          © 2026 Atlas Market. Alle Rechte vorbehalten.
         </p>
         <div style={{ display: 'flex', gap: '1.5rem' }}>
           <Link href="/ueber-uns" style={{ color: '#4a5568', textDecoration: 'none', fontSize: '0.85rem' }}>
