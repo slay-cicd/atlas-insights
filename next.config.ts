@@ -1,9 +1,11 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  output: 'standalone',
+  output: 'export',
+  trailingSlash: true,
+  basePath: '/atlas-insights',
   images: {
-    remotePatterns: [],
+    unoptimized: true,
   },
 }
 
