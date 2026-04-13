@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://slay-cicd.github.io/atlas-insights/sitemap.xml
